@@ -63,7 +63,7 @@ Examples of supported internal commands:
 
 ---
 
-# 🚀 Applications
+# Applications
 
 - Learning Linux shell internals
 - Understanding process management
